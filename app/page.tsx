@@ -891,7 +891,7 @@ export default function EnhancedVATCalculator() {
                 </div>
                 <div className="flex items-center gap-2 text-blue-600">
                   <div className="w-2 h-2 bg-blue-500 rounded-full"></div>
-                  <span>Po ideji @Fidelity_cg Code by @Boreas_MN</span>
+                  <span>Po ideji @Fidelity_cg</span>
                 </div>
                 <div className="flex items-center gap-2 text-purple-600">
                   <div className="w-2 h-2 bg-purple-500 rounded-full"></div>
